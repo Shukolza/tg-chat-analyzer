@@ -21,6 +21,9 @@ class TGTextEntity(BaseModel):
         "bank_card",
         "code",
         "email",
+        "cashtag",  # YES THERE IS SUCH A TYPE
+        "bot_command",
+        "mention_name",
     ]
     text: str
 
