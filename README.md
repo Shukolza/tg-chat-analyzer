@@ -4,6 +4,7 @@
 
 ## Description
 
+**UPD: Tested on large (200MB+) dumps, works with group chats and DMs**  
 A blazingly fast and memory-efficient Python tool to analyze your personal Telegram chat exports.
 Ever wondered who texts more in your relationships, or what your most used words are? The analyzer reads through massive JSON chat dumps using memory streaming, calculates text volume percentages, average message lengths, and extracts the top 3 most used words for each participant.
 
